@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppGlobalOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <callbackUrl>https://flosumagileintegration123.my.salesforce-setup.com</callbackUrl>
+    <certificate>MIIEYTCCA0mgAwIBAgIOAZg7wU4TAAAAAHij33UwDQYJKoZIhvcNAQELBQAweTER
+MA8GA1UEAwwIQWdpbGVKV1QxGDAWBgNVBAsMDzAwRERDMDAwMDAwMHMyYzEXMBUG
+A1UECgwOU2FsZXNmb3JjZS5jb20xFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xCzAJ
+BgNVBAgMAkNBMQwwCgYDVQQGEwNVU0EwHhcNMjUwNzI0MDkyNjIwWhcNMjYwNzI0
+MDAwMDAwWjB5MREwDwYDVQQDDAhBZ2lsZUpXVDEYMBYGA1UECwwPMDBEREMwMDAw
+MDAwczJjMRcwFQYDVQQKDA5TYWxlc2ZvcmNlLmNvbTEWMBQGA1UEBwwNU2FuIEZy
+YW5jaXNjbzELMAkGA1UECAwCQ0ExDDAKBgNVBAYTA1VTQTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKf1BVoiEMFzvsn9Nuef6C6lHG6hf7rVP2sVlsak
+v8r9Db8pX32xIQigTY0PQxIRlvS3HUXconDz2DLYZzLNe2Bxk43ETrmzblMi2sDt
+H9DXCpFtuIh3Du6yQMYijXOOwyzOzB0kYcZHX4/g8HOBbMMDbA7ULfKqUHIkXs5j
+oDZb6kY1m1AanxTk9JphGNrB8CI3BNeeS3TgkQ/PDN5rl3gSQnxkshvDThxhx/th
+la3hZn3c6PNIDWUGvLeoESq+ssMDsecZfuprze3LS1OCPwtzWhzT0766dnGj9let
+KZmOCOkZGAVh7qmWFJaTNF5wjnVdHu9DZN8PRfiLEXuQANkCAwEAAaOB5jCB4zAd
+BgNVHQ4EFgQUx5UUVL475iePYeOvwry/06b+7h0wDwYDVR0TAQH/BAUwAwEB/zCB
+sAYDVR0jBIGoMIGlgBTHlRRUvjvmJ49h46/CvL/Tpv7uHaF9pHsweTERMA8GA1UE
+AwwIQWdpbGVKV1QxGDAWBgNVBAsMDzAwRERDMDAwMDAwMHMyYzEXMBUGA1UECgwO
+U2FsZXNmb3JjZS5jb20xFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xCzAJBgNVBAgM
+AkNBMQwwCgYDVQQGEwNVU0GCDgGYO8FOEwAAAAB4o991MA0GCSqGSIb3DQEBCwUA
+A4IBAQCbU506FWwwiJqsoqCkQRxDl11+1+O+1ptx4ccBR1OvVnzmEzghiUp4wg7l
+vnS9enNQLFVONlbsNCmUWaVgbCqKuweT4lNBMd2NOqcuBsvMYmfzkpDp4AAo9SPq
+ZY+YJtFUBMUrs512vIeuFbc7r9PLWlls+omgmjmcM4N+HEiyCMM45caEGLEqb3HT
+aq5NQ8bO0U9P9wMEjfyG+0FtUh9wUuaScVfnG3uo873sXa5do7ai4+eTJhd6J/9q
+Dvk6uaDbzwIDOEsJVStBZrwlBgf8CG3KQNPa0UhdXm4X620JYvEQwzjmCVqczvY5
+vgnECdQrc4piFL7pKz6xWiXM4qgm</certificate>
+    <consumerKey>3MVG95jctIhbyCppY7OrBdNoUEhf9UBK0MJj.8FMQqZg4FaEGe8FKTeVVK3kWb5074PRCgd1aU5qX2NO6kEc8</consumerKey>
+    <externalClientApplication>DevOpsRaviJWT</externalClientApplication>
+    <isClientCredentialsFlowEnabled>true</isClientCredentialsFlowEnabled>
+    <isCodeCredFlowEnabled>false</isCodeCredFlowEnabled>
+    <isCodeCredPostOnly>false</isCodeCredPostOnly>
+    <isConsumerSecretOptional>false</isConsumerSecretOptional>
+    <isDeviceFlowEnabled>false</isDeviceFlowEnabled>
+    <isIntrospectAllTokens>false</isIntrospectAllTokens>
+    <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+    <isPkceRequired>false</isPkceRequired>
+    <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
+    <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+    <isSecretRequiredForTokenExchange>true</isSecretRequiredForTokenExchange>
+    <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+    <label>DevOpsRaviJWT_glbloauth</label>
+    <shouldRotateConsumerKey>false</shouldRotateConsumerKey>
+    <shouldRotateConsumerSecret>false</shouldRotateConsumerSecret>
+</ExtlClntAppGlobalOauthSettings>
