@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "0797926b-1b6b-41d6-90d8-b0eb8e2a4667",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "66.0",
+  "sourceBehaviorOptions": [
+    "decomposeCustomLabelsBeta2"
+  ]
+}
